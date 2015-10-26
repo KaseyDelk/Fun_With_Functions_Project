@@ -13,7 +13,8 @@
 		: Name it, select public static void main
 			option and click on finish to create
 			the class.
-Now begin Git on the local machine and Git Hub on the remote
+#Now begin Git on the local machine and Git Hub on the remote
+
 1. Open the cmd prompt
 	:Start> search for cmd
 2. Go to your project folder in the cmd line
