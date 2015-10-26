@@ -36,14 +36,12 @@
 9. Add a new repository
 	: Name it, and make it public, but do not initilize
 	your folder with a Read Me file.
-10. Follow the online instructions on how to
-	: …or create a new repository on the command line
-	:echo # Fun_With_Functions_Project >> README.md
-	:git init
-	:git add README.md
-	:git commit -m "first commit"
-	:git remote add origin https://github.com/KaseyDelk/Fun_With_Functions_Project.git
-	:git push -u origin master
+10. Follow the online instructions on how to or create a new repository on the command line
+	>git init
+	>git add README.md
+	>git commit -m "first commit"
+	>git remote add origin https://github.com/KaseyDelk/Fun_With_Functions_Project.git
+	>git push -u origin master
 11.
 
 
